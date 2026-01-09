@@ -79,7 +79,7 @@ select {
 .frameworks-list {
     /* Стили для маркированного списка во второй секции */    
     list-style-image: url(/assets/img/map-arrow.svg);    
-    padding-left: 20px;
+    padding: 0 20px;
     font-weight: 400;
     font-size: 16px;
 
@@ -87,7 +87,7 @@ select {
 
 .books-list {
     /* Стили для нумерованного списка во второй секции */
-    padding-left: 20px;
+    padding: 0 20px;
     font-weight: 400;
     font-size: 16px;
 }
